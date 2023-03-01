@@ -22,7 +22,7 @@ performance.
 
 ## Pipline 
  Network architecture and learning strategy
-![image]([https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.pdf](https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.png))  
+![image](https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.png)
 ## Experiment results
 
  Qualitative comparison for super-resolution performance on the USR-248 dataset
