@@ -25,18 +25,14 @@ performance.
 ![image]([https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.pdf](https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.png))  
 ## Experiment results
 
- 表头  | 表头  | 表头
- ---- | ----- | ------  
-      |       |     
- 单元格内容  | 单元格内容 | 单元格内容 
- 单元格内容  | 单元格内容 | 单元格内容 
- 
- 
-![image]([https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.pdf](https://github.com/lpm1001/SimUESR/blob/main/resources/usrx2.png))、
+ Qualitative comparison for super-resolution performance on the USR-248 dataset
+![image]([https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.pdf](https://github.com/lpm1001/SimUESR/blob/main/resources/usrx2.png))
 ![image]([https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.pdf](https://github.com/lpm1001/SimUESR/blob/main/resources/usrx4.png))
+Qualitative comparison for super-resolution performance on the UFO-120 dataset
 ![image]([https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.pdf](https://github.com/lpm1001/SimUESR/blob/main/resources/ufox2.png))
 ![image]([https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.pdf](https://github.com/lpm1001/SimUESR/blob/main/resources/ufox4.png))
-## Contact:  
+## Contact: 
+If you have any question, please email lipeiming1001@163.com
 ## Citation:    
 ```
 @Override
