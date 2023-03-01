@@ -29,6 +29,7 @@ performance.
 例如：
   
 ## Pipline 
+![image]([https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.pdf](https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.png))  
 ## Experiment results
 ## Contact:  
 ## Citation:  
