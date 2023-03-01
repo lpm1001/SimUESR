@@ -31,28 +31,19 @@ performance.
 ## Pipline 
 ![image]([https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.pdf](https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.png))  
 ## Experiment results
+
+ 表头  | 表头  | 表头
+ ---- | ----- | ------  
+ 单元格内容  | 单元格内容 | 单元格内容 
+ 单元格内容  | 单元格内容 | 单元格内容 
+![image]([https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.pdf](https://github.com/lpm1001/SimUESR/blob/main/resources/usrx2.png))、
+![image]([https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.pdf](https://github.com/lpm1001/SimUESR/blob/main/resources/usrx4.png))
+![image]([https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.pdf](https://github.com/lpm1001/SimUESR/blob/main/resources/ufox2.png))
+![image]([https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.pdf](https://github.com/lpm1001/SimUESR/blob/main/resources/ufox4.png))
 ## Contact:  
 ## Citation:  
 
-二、编辑基本语法  
-1、字体格式强调
- 我们可以使用下面的方式给我们的文本添加强调的效果
-*强调*  (示例：斜体)  
- _强调_  (示例：斜体)  
-**加重强调**  (示例：粗体)  
- __加重强调__ (示例：粗体)  
-***特别强调*** (示例：粗斜体)  
-___特别强调___  (示例：粗斜体)  
-2、代码  
-`<hello world>`  
-3、代码块高亮  
-```
-@Override
-protected void onDestroy() {
-    EventBus.getDefault().unregister(this);
-    super.onDestroy();
-}
-```  
+
 4、表格 （建议在表格前空一行，否则可能影响表格无法显示）
  
  表头  | 表头  | 表头
