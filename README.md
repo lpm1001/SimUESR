@@ -35,9 +35,5 @@ performance.
 If you have any question, please email lipeiming1001@163.com
 ## Citation:    
 ```
-@Override
-protected void onDestroy() {
-    EventBus.getDefault().unregister(this);
-    super.onDestroy();
-}
+
 ```  
