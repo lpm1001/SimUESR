@@ -61,7 +61,8 @@ protected void onDestroy() {
  
 5、其他引用
 图片  
-![图片名称]([https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.pdf](https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.jpg))  
+
+![image]([https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.pdf](https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.jpg))  
 链接  
 [链接名称](https://www.baidu.com/)    
 6、列表 
