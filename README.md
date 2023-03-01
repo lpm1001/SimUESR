@@ -1,16 +1,16 @@
 # SimUESR 
-Simultaneously enhancing the visibility and superresolution of underwater images poses a challenging task that
+Simultaneously enhancing the visibility and super-resolution of underwater images poses a challenging task that
 demands a concerted effort to overcome. In spite of the emergence
 of various deep learning models, almost all existing methods are
 tailored to specific enhancement tasks, rendering them unsuitable
 for underwater scenes. Consequently, most methods result in
 color distortion, blurred structures, and missing high-frequency
-details. To address this challenge, this paper proposes a multilevel degradation removal enhancer that utilizes underwater
+details. To address this challenge, this paper proposes a multi-level degradation removal enhancer that utilizes underwater
 transmission prior to simultaneously perform joint enhancement
 and super-resolution tasks, named as SimUESR. Specifically, the
 proposed SimUESR is designed to be guided by multiple sets of
-transmission-inspired guidance, which are cascaded with multistage degradation removal modules via a feature modulation
-operation. Through this, the underwater prior is used as modulation information to modulate contrast and color deviation,
+transmission-inspired guidance, which are cascaded with multi-stage degradation removal modules via a feature modulation
+operation. Through this, the underwater prior is used as modulation information to modulate contrast and color deviation,
 gradually embedding it in the transmission-guided modules at the
 feature level. Then the enhanced features are incorporated into
 a multi-stage degradation removal module to generate lossless
