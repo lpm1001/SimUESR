@@ -21,11 +21,13 @@ search for the desired loss, effectively improving visual perception
 performance.
 
 ## Pipline 
+ Network architecture and learning strategy
 ![image]([https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.pdf](https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.png))  
 ## Experiment results
 
  表头  | 表头  | 表头
  ---- | ----- | ------  
+      |       |     
  单元格内容  | 单元格内容 | 单元格内容 
  单元格内容  | 单元格内容 | 单元格内容 
  
