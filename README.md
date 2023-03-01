@@ -36,6 +36,8 @@ performance.
  ---- | ----- | ------  
  单元格内容  | 单元格内容 | 单元格内容 
  单元格内容  | 单元格内容 | 单元格内容 
+ 
+ 
 ![image]([https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.pdf](https://github.com/lpm1001/SimUESR/blob/main/resources/usrx2.png))、
 ![image]([https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.pdf](https://github.com/lpm1001/SimUESR/blob/main/resources/usrx4.png))
 ![image]([https://github.com/lpm1001/SimUESR/blob/main/resources/pipeline.pdf](https://github.com/lpm1001/SimUESR/blob/main/resources/ufox2.png))
@@ -44,6 +46,14 @@ performance.
 ## Citation:  
 
 
+3、代码块高亮  
+```
+@Override
+protected void onDestroy() {
+    EventBus.getDefault().unregister(this);
+    super.onDestroy();
+}
+```  
 4、表格 （建议在表格前空一行，否则可能影响表格无法显示）
  
  表头  | 表头  | 表头
